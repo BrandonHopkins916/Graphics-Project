@@ -1,0 +1,17 @@
+# ignore ALL .log files
+*.log
+*.tlog
+*.ilk
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# ignore All files in Release, Debug
+Debug/
+Release/
+x64/
+.vs/
+
+# ignore All files in folder
+*.exe
+*.pdb
